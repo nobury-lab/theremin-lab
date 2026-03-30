@@ -52,4 +52,8 @@ nav_order: 55
 
 ## 動画・演奏
 
-（随時追加）
+- <a href="https://www.youtube.com/watch?v=pSzTPGlNa5U" target="_blank">Clara Rockmore — The Swan（サン＝サーンス）</a>  
+  テルミン演奏の最高峰とされるClara Rockmoreの演奏。サン＝サーンスの「白鳥」。
+
+- <a href="https://www.youtube.com/watch?v=ZVue-QsxuzA" target="_blank">Grégoire Blanc & Orane Donnadieu — Clair de Lune（Claravox Centennial）</a>  
+  Moog Claravox Centennialを使ったドビュッシー「月の光」。2人のデュオ演奏。
