@@ -16,7 +16,7 @@ nav_order: 55
   テルミンに関する世界最大のフォーラム。演奏・DIY・修理・歴史など幅広いスレッドがある。英語だが情報量は圧倒的。困ったことがあればまずここを検索する。
 
 - [Moog Music Forum](https://forum.moogmusic.com/){:target="_blank"}  
-  Moog Music公式フォーラム。2023年にinMusicに買収後、大規模なレイオフと生産の海外移管が行われた。日本ではKORGが代理店だったが2023年末に終了、現在はinMusic Japanが窓口。旧モデルのサポートは事実上終了しており、Big Briar Etherwaveの修理・技術情報はTheremin Worldの方が充実している。
+  Moog Music公式フォーラム。2023年にinMusicに買収後、大規模なレイオフと生産の海外移管が行われた。日本ではKORGが代理店だったが2023年末に終了、現在はinMusic Japanが窓口。旧モデルのサポートは事実上終了しているが、過去ログは膨大で技術的な情報も多く侮れない。Big Briar Etherwaveの修理・技術情報はTheremin Worldと合わせて参照したい。
 
 ---
 
@@ -47,6 +47,19 @@ nav_order: 55
 ## 購入・ショップ
 
 （随時追加）
+
+---
+
+## 演奏家
+
+- <a href="https://romchiaki.info/" target="_blank">テルミン奏者Rom Chiaki ((((( Romland )))))</a>  
+  テルミン奏者・ロム・チアキの公式サイト。
+
+- <a href="https://theremin.blue.coocan.jp/index.html" target="_blank">テルミン奏者・街角マチコ公式サイト</a>  
+  テルミン奏者・街角マチコの公式サイト。
+
+- <a href="https://machikadomachiko.com/profile/" target="_blank">テルミン奏者 大西ようこ</a>  
+  テルミン奏者・大西ようこの公式サイト。
 
 ---
 
