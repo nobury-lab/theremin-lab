@@ -13,9 +13,9 @@ has_children: true
 ---
 
 {: .model }
-> **RCA Thereminvox（1929）**
+> **RCA Theremin（1929）**
 >
-> 製造元：GE / Westinghouse（RCAライセンス）／ 回路方式：真空管ヘテロダイン／ 音域：3.5〜4オクターブ
+> 製造元：RCA (Radio Corporation of America)／ 回路方式：真空管ヘテロダイン／ 音域：3.5〜4オクターブ
 >
 > 世界初の商業量産テルミン。Léon Theremin自身が設計。製造台数約500台、現存約136台。
 
@@ -48,13 +48,6 @@ has_children: true
 > Bob Moog最後のテルミン設計。製造台数約1,500台。現在Moogのサポート終了。
 
 {: .model }
-> **Etherwave 2022（現行）**
->
-> 製造元：Moog Music（inMusic）／ 回路方式：ヘテロダイン（改良）／ 音域：5オクターブ
->
-> StandardとPlusを統合した現行モデル。CV出力（Pitch/Vol/Gate）搭載。
-
-{: .model }
 > **Theremini（2014）**
 >
 > 製造元：Moog Music／ 回路方式：デジタル（Animoog派生）／ 内蔵スピーカーあり
@@ -67,3 +60,10 @@ has_children: true
 > 製造元：Moog Music／ 回路方式：デジタル＋アナログ
 >
 > Léon Theremin生誕100周年記念モデル。限定生産。
+
+{: .model }
+> **New Etherwave (2022)**
+>
+> 製造元：Moog Music（inMusic）／ 回路方式：ヘテロダイン（改良）／ 音域：5オクターブ
+>
+> StandardとPlusを統合した現行モデル。CV出力（Pitch/Vol/Gate）搭載。

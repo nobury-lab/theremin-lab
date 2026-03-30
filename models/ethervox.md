@@ -2,7 +2,7 @@
 title: Ethervox
 layout: default
 parent: モデル・カタログ
-nav_order: 34
+nav_order: 40
 ---
 
 # Big Briar Ethervox Theremin（1997）

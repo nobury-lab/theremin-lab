@@ -2,7 +2,7 @@
 title: Big Briar Series 91
 layout: default
 parent: モデル・カタログ
-nav_order: 30
+nav_order: 20
 ---
 
 # Big Briar Series 91（1991）

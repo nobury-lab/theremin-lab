@@ -2,7 +2,7 @@
 title: Claravox Centennial
 layout: default
 parent: モデル・カタログ
-nav_order: 38
+nav_order: 70
 ---
 
 # Claravox Centennial（2020）

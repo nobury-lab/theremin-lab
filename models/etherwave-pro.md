@@ -2,7 +2,7 @@
 title: Etherwave Pro
 layout: default
 parent: モデル・カタログ
-nav_order: 35
+nav_order: 50
 ---
 
 # Etherwave Pro（2004）
