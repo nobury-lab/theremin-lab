@@ -7,6 +7,8 @@ theme: just-the-docs
 
 lang: ja
 
+nav_fold: false
+
 aux_links:
   "GitHub":
     - "https://github.com/nobury-lab/theremin-lab"
