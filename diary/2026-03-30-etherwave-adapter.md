@@ -1,5 +1,5 @@
 ---
-title: Etherwaveのアダプターが変わっていた
+title: 20260330_Etherwaveのアダプター問題
 layout: default
 parent: 日記
 ---
