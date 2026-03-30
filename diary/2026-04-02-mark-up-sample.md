@@ -36,6 +36,7 @@ nav_order: 9969
 ## リンク
 
 参考リンクはこう書く。[Theremin World](http://www.thereminworld.com)、[Moog Music Forum](https://forum.moogmusic.com)。
+<a href="http://www.thereminworld.com" target="_blank">Theremin World</a>
 
 ---
 
@@ -59,16 +60,14 @@ L11: ボリューム回路
 
 ---
 
-## Callout（注意書き）
-
 {: .note }
-補足情報。参考程度の内容に使う。
+> 補足情報。参考程度の内容に使う。
 
 {: .warning }
-注意事項。間違えやすいポイントに使う。
+> 注意事項。間違えやすいポイントに使う。
 
 {: .important }
-重要ポイント。絶対に覚えておくべきことに使う。
+> 重要ポイント。絶対に覚えておくべきことに使う。
 
 ---
 
