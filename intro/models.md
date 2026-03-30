@@ -68,3 +68,6 @@ has_children: true
 > 製造元：Moog Music／ 回路方式：デジタル＋アナログ
 >
 > Léon Theremin生誕100周年記念モデル。限定生産。
+
+{: .important }
+> 重要ポイント。絶対に覚えておくべきことに使う。
