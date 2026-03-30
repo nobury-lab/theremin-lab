@@ -1,7 +1,7 @@
 ---
 title: Claravox Centennial
 layout: default
-parent: はじめに
+parent: モデル・カタログ
 nav_order: 38
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Big Briar Series 91
 layout: default
-parent: はじめに
+parent: モデル・カタログ
 nav_order: 32
 ---
 

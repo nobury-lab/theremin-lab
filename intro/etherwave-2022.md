@@ -1,7 +1,7 @@
 ---
 title: Etherwave 2022
 layout: default
-parent: はじめに
+parent: モデル・カタログ
 nav_order: 36
 ---
 

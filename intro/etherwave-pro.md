@@ -1,7 +1,7 @@
 ---
 title: Etherwave Pro
 layout: default
-parent: はじめに
+parent: モデル・カタログ
 nav_order: 35
 ---
 
