@@ -2,6 +2,7 @@
 title: 2026/3/30_Etherwaveのアダプター問題
 layout: default
 parent: 日記
+nav_order: 9990
 ---
 
 # Etherwaveのアダプターが変わっていた
