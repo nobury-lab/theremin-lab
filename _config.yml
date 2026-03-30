@@ -21,4 +21,13 @@ callouts:
   important:
     title: 重要
     color: yellow
+  tip:
+    title: ヒント
+    color: green
+  info:
+    title: 情報
+    color: purple
+  model:
+    title: モデル
+    color: grey-dk
 
