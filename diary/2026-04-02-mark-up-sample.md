@@ -1,5 +1,5 @@
 ---
-title: ・マークアップサンプル(2026/4/2)
+title: マークアップサンプル(2026/4/2)
 layout: default
 parent: 日記
 nav_order: 9969
