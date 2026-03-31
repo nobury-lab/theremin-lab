@@ -2,9 +2,12 @@
 title: 映像集
 layout: default
 nav_order: 50
+has_children: true
 ---
 
 ## 動画・演奏
+
+テルミンに関する動画集
 
 ### Clara Rockmore — The Swan（サン＝サーンス）
 

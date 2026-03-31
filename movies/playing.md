@@ -1,8 +1,11 @@
 ---
 title: テルミン演奏
 layout: default
+parent: 映像集
 nav_order: 1
-has_children: true
+
+
+
 ---
 
 # テルミン演奏
