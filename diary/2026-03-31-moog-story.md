@@ -38,7 +38,7 @@ Callout：
 
 ---
 
-<img src="../assets/images/leon-theremin.jpg" alt="レオンテルミンの写真" style="max-width:100%; height:auto; margin-bottom:1rem;">
+<img src="../assets/images/moog-inmusic-famicon.jpg" alt="買収ゲーム" style="max-width:100%; height:auto; margin-bottom:1rem;">
 
 2023年6月、Moog MusicがinMusicに買収された。
 
