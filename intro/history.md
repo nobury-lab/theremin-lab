@@ -2,7 +2,7 @@
 title: 歴史
 layout: default
 parent: はじめに
-nav_order: 2
+nav_order: 20
 ---
 
 # テルミンの歴史
